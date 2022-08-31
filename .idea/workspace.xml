@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c993d3-fbba-4063-ba3b-24d9adf8182d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/addEmployee.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AddEmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/DashboardPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Steps/AddEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/RunnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/PageInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/PageInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/CommonMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
