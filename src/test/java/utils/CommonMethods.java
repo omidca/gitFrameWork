@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.lang.runtime.SwitchBootstraps;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
